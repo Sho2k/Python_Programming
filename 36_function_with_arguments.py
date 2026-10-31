@@ -1,0 +1,6 @@
+def add(first, second):
+    return first + second
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print("Sum:", add(a, b))
