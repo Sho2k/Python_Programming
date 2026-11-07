@@ -1,12 +1,21 @@
-Python Programming
+# Python Programming
 
 A practical collection of Python programs developed while learning programming, exploring advanced concepts, and implementing data structures and algorithms.
 
 This repository represents my progression from Python fundamentals to more advanced programming techniques through hands-on practice.
 
-Technical Coverage
+## Learning Progress
 
-Python Fundamentals
+| Stage | Focus Area | Programs | Status |
+|---|---|---:|---|
+| Stage 1 | Python Fundamentals | 01–48 | Completed |
+| Stage 2 | Advanced Python | 49–58 | Completed |
+| Stage 3 | Data Structures & Algorithms | 59–68 | Completed |
+| **Total** | | **68** | **Completed** |
+
+## Technical Coverage
+
+### Python Fundamentals
 - Variables, data types and operators
 - Conditional statements and loops
 - Functions and recursion
@@ -14,7 +23,7 @@ Python Fundamentals
 - Object-oriented programming
 - Basic problem-solving techniques
 
-Advanced Python
+### Advanced Python
 - Lambda functions
 - Functional programming
 - List comprehension
@@ -25,7 +34,7 @@ Advanced Python
 - JSON handling
 - Multithreading
 
-Data Structures & Algorithms
+### Data Structures & Algorithms
 - List operations
 - Linear and binary search
 - Bubble, selection and insertion sort
@@ -33,36 +42,36 @@ Data Structures & Algorithms
 - Stack and queue implementation
 - Singly linked lists
 
-Technologies
+## Technologies
 
 - Python 3
 - Visual Studio Code
 - Git
 - GitHub
 
-Running the Programs
+## Running the Programs
 
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/Sho2k/Python_Programming.git
-
+```
 
 Navigate to the project directory:
 
-bash
+```bash
 cd Python_Programming
-
+```
 
 Run a Python program:
 
-bash
+```bash
 python filename.py
+```
 
+Replace `filename.py` with the program you want to execute.
 
-Replace filename.py with the program you want to execute.
-
-Purpose of This Repository
+## Purpose of This Repository
 
 This project focuses on:
 
@@ -72,9 +81,9 @@ This project focuses on:
 - Practising data structures and algorithms.
 - Improving problem-solving and coding skills.
 
-Author
+## Author
 
-Shobhia
+**Shobhia Balasri**
 
 GitHub: [Sho2k](https://github.com/Sho2k)
 
